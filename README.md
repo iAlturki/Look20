@@ -32,6 +32,9 @@
 2. Run it — an eye icon appears in your system tray
 3. (Optional) right-click the eye → **Settings → Start with Windows**
 
+> **Antivirus / SmartScreen:** Look20 is a tiny **unsigned** indie executable, so Windows SmartScreen may show an "unknown publisher" prompt the first time — click **More info → Run anyway**. The release binary is built with MSVC and scans clean. Verify the download if you like — v1.0.0 `Look20.exe` SHA-256:
+> `32A3D982D54D7C39797A0B5D6D49447E1E6A2EA3C97AEF21E67EE65CB51F77D9`
+
 ## Using it
 
 - **Left-click** the tray eye → take a break right now
