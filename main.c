@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: CC-BY-NC-SA-4.0
+// Copyright (c) 2026 iAlturki
 /*
  * Look20 - a 20-20-20 eye-break reminder for Windows.
  *

@@ -1,3 +1,12 @@
+<!-- AI setup by iAlturki -->
+<p align="center">
+  <img src="assets/logo.svg" width="76" alt="Look20 logo">
+  &nbsp;&nbsp;
+  <a href="https://ialturki.github.io/Look20/agent-setup/"><img src="assets/ai-setup.svg" width="330" alt="Set up with your AI agent — open the setup prompt copier"></a>
+</p>
+<p align="center"><sub>Click the setup button, copy the prompt, and give it to your AI agent. <a href="docs/agent-setup/prompt.txt">Read the prompt</a>.</sub></p>
+<!-- /AI setup by iAlturki -->
+
 # Look20
 
 👁️ A tiny, dependency-free **20-20-20 eye-break reminder** for Windows. Every 20 minutes an animated pixel-art eye slides onto your screen and reminds you to look ~20 feet away for 20 seconds — with a live countdown and Skip / Snooze. One self-contained `.exe`, no installer, no dependencies.
@@ -81,4 +90,7 @@ More notes: [444005129.xyz](https://444005129.xyz/#look20).
 
 ## License
 
-MIT © 2026 iALTURKi — see [LICENSE](LICENSE), [NOTICE](NOTICE), and [AUTHORS](AUTHORS). If you fork or redistribute, keep the copyright notice and attribution intact.
+CC BY-NC-SA 4.0 © 2026 iAlturki — see [LICENSE](LICENSE), [NOTICE](NOTICE), and [AUTHORS](AUTHORS). If you fork or redistribute, keep the copyright notice and attribution intact.
+
+
+Current original material is **CC BY-NC-SA 4.0 © iAlturki**. Earlier MIT releases retain their original terms; third-party material retains its own notices. See [NOTICE](NOTICE) and [LICENSES/previous-MIT.txt](LICENSES/previous-MIT.txt).
